@@ -1,0 +1,12 @@
+Analisis dan Diskusi
+1. Apa yang terjadi saat objek muncul di kamera?
+Ketika objek muncul di kamera, citra atau video diambil dan diproses oleh sistem. Objek akan terlihat sebagai perubahan dalam piksel gambar, yang kemudian dianalisis untuk mendeteksi bentuk, warna, atau fitur tertentu.
+2. Bagaimana sistem mendeteksi dan memfilter objek?
+•	Mengubah citra ke format yang lebih mudah dianalisis, seperti Grayscale atau HSV.
+•	Menggunakan algoritma deteksi, seperti Haar Cascades, deteksi kontur, atau template matching.
+•	Memfilter objek dengan menggunakan teknik thresholding untuk memisahkan objek dari latar belakang atau objek lain.
+3. Bagaimana metode ini dapat diterapkan dalam intelligent control systems?
+•	Robotika: Membantu robot untuk mendeteksi dan berinteraksi dengan objek di sekitarnya.
+•	Kendaraan Otonom: Memungkinkan kendaraan untuk mendeteksi rintangan atau objek jalan seperti pejalan kaki dan kendaraan lain.
+•	Pengawasan Otomatis: Memungkinkan sistem keamanan untuk mendeteksi dan melacak individu atau objek dalam area tertentu.
+•	Automasi Industri: Mendeteksi dan memverifikasi objek atau produk pada jalur produksi otomatis.
